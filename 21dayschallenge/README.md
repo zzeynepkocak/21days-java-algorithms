@@ -1,16 +1,17 @@
- # 21days Java Algorithms
- 
- This repository is a **21-day Java algorithm challenge**. The goal is to implement and practice one algorithm (or data structure exercise) every day using Java.
+# 21days Java Algorithms
+
+This repository is a **21-day Java algorithm challenge**: one algorithm per day in Java.
  
  ## Project Structure
  
  Currently, the project contains:
  
- - `EnbuyukEleman.java`: Finds the largest element in an integer array and returns both:
-   - the **maximum value** in the array
-   - the **index** of the maximum value
- 
- More Java algorithm implementations will be added over the 21 days.
+- `EnbuyukEleman.java`: Finds the largest element in an integer array (Day 1).
+- `EnkucukEleman.java`: Finds the smallest element in an integer array (Day 2).
+- `DogrusalArama.java`: **Linear search** — finds the index of a target value in an array (Day 3).
+- `IkiliArama.java`: **Binary search** — finds the index in a sorted array, O(log n) (Day 4).
+
+More Java algorithm implementations will be added over the 21 days.
  
  ## How to Run
  
@@ -33,10 +34,10 @@
  
  You can track your 21-day plan here. For example:
  
- - Day 1: Find the largest element in an array (`EnbuyukEleman.java`)
- - Day 2: Find the smallest element in an array
- - Day 3: Linear search
- - Day 4: Binary search
+- Day 1: Find the largest element in an array (`EnbuyukEleman.java`) ✓
+- Day 2: Find the smallest element in an array (`EnkucukEleman.java`) ✓
+- Day 3: Linear search (`DogrusalArama.java`) ✓
+- Day 4: Binary search (`IkiliArama.java`) ✓
  - Day 5: Reverse an array
  - Day 6: Check if an array is sorted
  - Day 7: Count occurrences of an element
