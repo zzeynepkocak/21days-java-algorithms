@@ -10,6 +10,7 @@ This repository is a **21-day Java algorithm challenge**: one algorithm per day 
 - `EnkucukEleman.java`: Finds the smallest element in an integer array (Day 2).
 - `DogrusalArama.java`: **Linear search** — finds the index of a target value in an array (Day 3).
 - `IkiliArama.java`: **Binary search** — finds the index in a sorted array, O(log n) (Day 4).
+- `DiziyiTersCevir.java`: **Reverse an array** — in-place or new array (Day 5).
 
 More Java algorithm implementations will be added over the 21 days.
  
@@ -38,7 +39,7 @@ More Java algorithm implementations will be added over the 21 days.
 - Day 2: Find the smallest element in an array (`EnkucukEleman.java`) ✓
 - Day 3: Linear search (`DogrusalArama.java`) ✓
 - Day 4: Binary search (`IkiliArama.java`) ✓
- - Day 5: Reverse an array
+- Day 5: Reverse an array (`DiziyiTersCevir.java`) ✓
  - Day 6: Check if an array is sorted
  - Day 7: Count occurrences of an element
  - Day 8: Sum and average of array elements
